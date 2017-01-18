@@ -1,0 +1,5 @@
+https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
+--WOking on this.
+--Toan's Recomendation
+https://github.com/AngularClass/angular2-webpack-starter
+https://github.com/mgechev/angular-seed
